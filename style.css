@@ -4,8 +4,8 @@
 }
 
 .cabecalho {
-    background-color: #424e61d7;
-    color: black;
+    background-color: gray;
+    color: rgb(36, 34, 34);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -22,3 +22,15 @@
     margin: 0 16px;
     font-size: 20px;
 }
+
+.banda-imagem{
+    width: 15%;
+}
+
+.historico{
+    background-image: linear-gradient(gray,rgb(65, 65, 65));
+    color: white;
+    display: flex;
+    
+}
+
